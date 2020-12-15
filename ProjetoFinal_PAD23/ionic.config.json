@@ -1,0 +1,7 @@
+{
+  "name": "ProjetoFinal_PAD2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
